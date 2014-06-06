@@ -1,4 +1,4 @@
-=== @TODO: Plugin Name ===
+=== wp_emebed ===
 Contributors: alx
 Tags: kaltura, mwembeb, embed, videos
 Requires at least: 3.9.1
